@@ -1,0 +1,76 @@
+{
+  "words": [
+    {
+      "wordValue": "MANGO",
+      "wordHint": "A fruit"
+    },
+    {
+      "wordValue": "BANANA",
+      "wordHint": "A fruit"
+    },
+    {
+      "wordValue": "INDIA",
+      "wordHint": "A country"
+    },
+    {
+      "wordValue": "LONDON",
+      "wordHint": "A city"
+    },
+    {
+      "wordValue": "PYTHON",
+      "wordHint": "A programming language"
+    },
+    {
+      "wordValue": "ELEPHANT",
+      "wordHint": "A large animal"
+    },
+    {
+      "wordValue": "MOUNTAIN",
+      "wordHint": "A natural elevation of the earth's surface"
+    },
+    {
+      "wordValue": "OCEAN",
+      "wordHint": "A large body of salt water"
+    },
+    {
+      "wordValue": "COMPUTER",
+      "wordHint": "An electronic device"
+    },
+    {
+      "wordValue": "GUITAR",
+      "wordHint": "A musical instrument"
+    },
+    {
+      "wordValue": "SUNFLOWER",
+      "wordHint": "A type of flower"
+    },
+    {
+      "wordValue": "JUPITER",
+      "wordHint": "A planet"
+    },
+    {
+      "wordValue": "DIAMOND",
+      "wordHint": "A precious stone"
+    },
+    {
+      "wordValue": "VOLCANO",
+      "wordHint": "A geological formation"
+    },
+    {
+      "wordValue": "KANGAROO",
+      "wordHint": "An Australian animal"
+    },
+    {
+      "wordValue": "TELESCOPE",
+      "wordHint": "An astronomical instrument"
+    },
+    {
+      "wordValue": "BICYCLE",
+      "wordHint": "A two-wheeled vehicle"
+    },
+    {
+      "wordValue": "LIBRARY",
+      "wordHint": "A place with books"
+    }
+  ]
+}
